@@ -6,6 +6,8 @@ format, is available at https://pjreddie.com/projects/mnist-in-csv/. The format 
 line of data is: “label, pix-1-1, pix-1-2, pix1-3, … , pix-28-28” where label is a digit 0-9 and pix-X-Y is a
 greyscale value from 0-255.
 
+MNIST files need to be in the same directory as the program file.
+
 ## User-selectable operations:
 **[1] Train the network**
 
